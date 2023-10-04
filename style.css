@@ -404,3 +404,6 @@ p::first-letter {
    }
 
    
+   body {
+    overflow-x: hidden;
+}
